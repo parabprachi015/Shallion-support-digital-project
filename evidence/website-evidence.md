@@ -93,3 +93,19 @@ The page was structured to present support information in a clear and accessible
 The completed Support Us page is available on the live Shallion Support website:
 
 [View the live Support Us page](https://www.shallion.co.uk/support-us)
+
+## Shop Page
+
+A dedicated Shop webpage was created from scratch during the placement to provide a clearer and more structured way of presenting Shallion-related products and social-enterprise content.
+
+The page was designed to improve the organisation and presentation of shop information and provide a clearer pathway for visitors exploring the organisation's wider social-enterprise activities.
+
+### Evidence
+
+- `shop page.png` – final Shop page
+
+### Final Output
+
+The completed Shop page is available on the live Shallion Support website:
+
+[View the live Shop page](https://www.shallion.co.uk/about-1)

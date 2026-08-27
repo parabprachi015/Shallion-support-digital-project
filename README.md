@@ -49,3 +49,15 @@ The analytics review also provides evidence that can support future website deci
 Future development could focus on improving visibility for relevant service-related searches, strengthening pathways from website pages to contact or support routes, increasing referral and social traffic, and continuing to review the usability of the website across desktop and mobile devices.
 
 The project also provides a documented starting point for future updates, allowing website performance and user engagement to be reviewed again after further changes.
+
+## 6. Repository Structure
+
+The repository is organised into sections covering the project documentation, website development, analytics and supporting evidence.
+
+- `documentation/` – project background, methodology and recommendations.
+- `analytics/` – aggregate website analytics data and analysis files.
+- `website-development/` – documentation of website content, structure and usability improvements.
+- `evidence/` – selected screenshots and other supporting evidence where sharing is permitted.
+- `references/` – sources used to support the project documentation and analysis.
+
+The README provides an overview of the project, while the individual folders contain the supporting materials for each stage of the work.

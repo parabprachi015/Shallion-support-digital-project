@@ -2,30 +2,42 @@
 
 This document summarises the main website development outputs completed during the placement.
 
-## Website Structure and Content
+## Homepage
 
-Reviewed and improved the organisation of website information to make important services and support information easier to find.
+Restructured the Homepage to improve the presentation of key information and make Shallion Dementia Support more clearly visible alongside Shallion Support.
 
 ## Shallion Support
 
-Refined and structured content relating to Shallion Support, including clearer information and pathways for visitors.
+Developed a dedicated Shallion Support webpage from scratch to provide clearer information about the support available and relevant enquiry pathways.
 
 ## Dementia Support
 
-Developed a dedicated Dementia Support webpage with structured information about the service, support approach and enquiry pathway.
+Developed a dedicated Dementia Support webpage from scratch with structured information about the service, support available and how visitors can make an enquiry.
+
+## About Us
+
+Redesigned the existing About Us webpage to improve page structure, layout and presentation of organisational information.
 
 ## Support Us
 
-Developed and organised information explaining how visitors can support Shallion and how contributions relate to the organisation's work.
+Created a dedicated Support Us webpage to present clearer information about ways people can support Shallion and its wider social-enterprise activities.
+
+## Shop
+
+Created a dedicated Shop webpage from scratch to provide a clearer and more structured presentation of Shallion-related products and social-enterprise content.
 
 ## FAQ
 
-Reviewed frequently asked questions and improved the presentation of information relating to support options and costs.
+Reviewed and updated frequently asked questions to improve the clarity of information about support options and costs.
 
 ## Navigation and Calls-to-Action
 
-Reviewed navigation links and button wording and improved pathways between relevant pages.
+Reviewed navigation, links and button wording to improve movement between important pages and make next steps clearer.
 
-## Responsive Design
+## Responsive Design and Usability
 
-Checked updated pages on desktop and mobile layouts and made adjustments to improve readability, spacing and presentation.
+Checked updated pages across desktop and mobile views and made adjustments to improve readability, spacing, consistency and presentation.
+
+## Overall Outcome
+
+The website development work aimed to create a clearer and more consistent digital experience and improve access to Shallion's services, information, support pathways and contact routes.

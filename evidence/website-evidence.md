@@ -23,3 +23,13 @@ Each selected example will be presented with context describing the issue or req
 The completed website can be viewed at:
 
 [Shallion Support website](https://www.shallion.co.uk/)
+
+## Shallion Support Page
+
+The Shallion Support webpage was developed from scratch during the placement.
+
+The page was structured to present support information clearly, improve navigation between related information, and provide clearer pathways for visitors seeking support.
+
+### Final Output
+
+The completed page can be viewed on the live Shallion website.

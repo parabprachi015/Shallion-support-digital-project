@@ -26,9 +26,11 @@ This supports the importance of clear navigation from the homepage towards key s
 
 ## Form Activity
 
-No form submissions were recorded during the analysed period.
+The available Wix Analytics data showed 46 volunteer-form views, 7 form starts and 2 completed submissions during the analysed period.
 
-This finding should be interpreted cautiously because it does not demonstrate that no enquiries were received. Visitors may have used telephone, email or other communication routes instead.
+This indicates interest in volunteering, while the lower number of completed submissions suggests that the volunteering pathway could potentially be made clearer or easier to complete.
+
+Future evaluation should compare form views, starts and completed submissions after further website development.
 
 ## Implications for Website Development
 

@@ -61,3 +61,16 @@ The repository is organised into sections covering the project documentation, we
 - `references/` – sources used to support the project documentation and analysis.
 
 The README provides an overview of the project, while the individual folders contain the supporting materials for each stage of the work.
+
+## 7. Live Website Outputs
+
+The completed website can be viewed at:
+
+- [Homepage](https://www.shallion.co.uk/)
+- [Shallion Support](https://www.shallion.co.uk/shallion-support)
+- [Dementia Support](https://www.shallion.co.uk/dementia-support)
+- [About Us](https://www.shallion.co.uk/about-us)
+- [Support Us](https://www.shallion.co.uk/support-us)
+- [Shop](https://www.shallion.co.uk/about-1)
+
+Supporting before-and-after evidence and final-page screenshots are available in the `evidence/` folder.

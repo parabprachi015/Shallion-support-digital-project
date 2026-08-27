@@ -43,3 +43,19 @@ The completed page is available on the live Shallion Support website.
 
 [View the live Dementia Support page](https://www.shallion.co.uk/dementia-support)
 
+## About Us Page
+
+The About Us webpage was redesigned during the placement to improve the presentation and organisation of information about Shallion Support.
+
+The redesign included changes to page structure, layout, content presentation and the overall user-facing experience.
+
+### Evidence
+
+- `about-us-before.png` – baseline version before the redesign
+- `about-us-after-01.png` – final redesigned page
+
+### Final Output
+
+The redesigned About Us page is available on the live Shallion Support website:
+
+[View the live About Us page](https://www.shallion.co.uk/about-us)

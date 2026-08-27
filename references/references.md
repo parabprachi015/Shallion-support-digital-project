@@ -1,5 +1,5 @@
 # References
 
-This file will contain the sources referenced within the project documentation and analysis.
+Shallion Support. Website and organisational materials used during the placement.
 
-References will be added as the portfolio is developed.
+Wix Analytics. Aggregate website traffic, page performance and search-performance data reviewed during the placement.

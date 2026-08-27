@@ -41,15 +41,15 @@ Updated website pages were checked across desktop and mobile views, with adjustm
 ### Evaluation
 Future analytics and usability checks can be used to assess whether mobile users continue to engage effectively.
 
-## Finding 4: Recorded form submissions
+## Finding 4: Volunteer form activity
 
-No form submissions were recorded during the period analysed.
+The available Wix Analytics data showed 46 volunteer-form views, 7 form starts and 2 completed submissions during the analysed period.
 
 ### Interpretation
-This finding does not demonstrate that no enquiries were received because users may have contacted Shallion through telephone or email.
+This indicates interest in volunteering, but only a small proportion of form views resulted in completed submissions. This suggests that the volunteering pathway could potentially be made clearer or easier to complete.
 
 ### Action
-Contact pathways and calls-to-action were reviewed as part of the wider website improvement work.
+The Volunteering and Support Us pathways were reviewed and separated, with clearer website organisation and navigation.
 
 ### Evaluation
-Future monitoring of form submissions and other enquiry pathways could provide better evidence of website conversion.
+Future monitoring should compare volunteer-form views, starts and completed submissions to assess whether the revised pathway improves completion.

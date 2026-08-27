@@ -24,6 +24,24 @@ The completed website can be viewed at:
 
 [Shallion Support website](https://www.shallion.co.uk/)
 
+## Homepage
+
+The Homepage was substantially restructured during the placement to improve the presentation of key information and make the main service pathways easier to understand.
+
+A key change was making Shallion Dementia Support clearly visible as a service alongside Shallion Support, with clearer information hierarchy and pathways to relevant sections.
+
+### Evidence
+
+- `homepage-before-01.png` – baseline homepage
+- `homepage-before-02.png` – baseline homepage
+- `homepage-before-03.png` – baseline homepage
+- `homepage-after-01.png` – final homepage
+- `homepage-after-02.png` – final homepage
+
+### Final Output
+
+[View the live Homepage](https://www.shallion.co.uk/)
+
 ## Shallion Support Page
 
 The Shallion Support webpage was developed from scratch during the placement.

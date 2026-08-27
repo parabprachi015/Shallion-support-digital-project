@@ -39,3 +39,13 @@ The main outputs produced during the placement included:
 - Responsive and usability checks across desktop and mobile views.
 - Analysis of Wix website analytics and Google search performance to provide a baseline for future website evaluation.
 - Documentation of completed website work, findings and recommendations for future development.
+
+## 5. Implications for Shallion Support
+
+The project provides Shallion with a clearer and more structured online presence and a baseline for future digital evaluation. The website improvements aim to make important information easier to find, understand and navigate for people accessing support, families and carers, volunteers and other visitors.
+
+The analytics review also provides evidence that can support future website decisions. In particular, website traffic, page visits, search performance and visitor behaviour can be monitored to identify changes in user engagement over time.
+
+Future development could focus on improving visibility for relevant service-related searches, strengthening pathways from website pages to contact or support routes, increasing referral and social traffic, and continuing to review the usability of the website across desktop and mobile devices.
+
+The project also provides a documented starting point for future updates, allowing website performance and user engagement to be reviewed again after further changes.

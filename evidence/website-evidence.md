@@ -41,9 +41,5 @@ The page was also reviewed for readability, navigation and presentation across d
 
 The completed page is available on the live Shallion Support website.
 
-The page was structured to present support information clearly, improve navigation between related information, and provide clearer pathways for visitors seeking support.
-
-### Final Output
 [View the live Dementia Support page](https://www.shallion.co.uk/dementia-support)
 
-The completed page can be viewed on the live Shallion website.

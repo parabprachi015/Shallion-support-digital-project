@@ -1,0 +1,9 @@
+metric,value,unit,period
+site_sessions,131,sessions,Last 30 days
+unique_visitors,95,visitors,Last 30 days
+direct_sessions,55,sessions,Last 30 days
+google_organic_sessions,48,sessions,Last 30 days
+bing_organic_sessions,18,sessions,Last 30 days
+referral_sessions,5,sessions,Last 30 days
+organic_social_sessions,1,sessions,Last 30 days
+ai_platform_sessions,1,sessions,Last 30 days

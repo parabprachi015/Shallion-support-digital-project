@@ -35,6 +35,7 @@ The main outputs produced during the placement included:
 - Development of a dedicated Shallion Dementia Support webpage.
 - Improvements to website navigation, calls-to-action, FAQ content and support information.
 - Development of Support Us content and clearer presentation of support and contribution information.
+- Development of a dedicated Shop webpage from scratch to organise and present Shallion's shop and social-enterprise content more clearly.
 - Review and improvement of website content relating to Shallion's social enterprise partners.
 - Responsive and usability checks across desktop and mobile views.
 - Analysis of Wix website analytics and Google search performance to provide a baseline for future website evaluation.

@@ -52,10 +52,26 @@ The redesign included changes to page structure, layout, content presentation an
 ### Evidence
 
 - `about-us-before.png` – baseline version before the redesign
-- `about-us-after-01.png` – final redesigned page
+- `about us after.png` – final redesigned page
 
 ### Final Output
 
 The redesigned About Us page is available on the live Shallion Support website:
 
 [View the live About Us page](https://www.shallion.co.uk/about-us)
+
+## Support Us Page
+
+A dedicated Support Us webpage was created during the placement to provide clearer information about how visitors can support Shallion and its social enterprise activities.
+
+The page was structured to present support information in a clear and accessible way, with appropriate headings, explanatory content and pathways for visitors who want to find out more or make contact.
+
+### Evidence
+
+- `support us page.png` – final Support Us page
+
+### Final Output
+
+The completed Support Us page is available on the live Shallion Support website:
+
+[View the live Support Us page](https://www.shallion.co.uk/support-us)

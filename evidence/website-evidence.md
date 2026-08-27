@@ -29,8 +29,21 @@ The completed website can be viewed at:
 The Shallion Support webpage was developed from scratch during the placement.
 [View the live Shallion Support page](https://www.shallion.co.uk/shallion-support)
 
+## Dementia Support Page
+
+The Dementia Support webpage was developed from scratch during the placement.
+
+The page was structured to clearly communicate the purpose of the service, who it supports, the types of support available and how visitors can make an enquiry.
+
+The page was also reviewed for readability, navigation and presentation across desktop and mobile views.
+
+### Final Output
+
+The completed page is available on the live Shallion Support website.
+
 The page was structured to present support information clearly, improve navigation between related information, and provide clearer pathways for visitors seeking support.
 
 ### Final Output
+[View the live Dementia Support page](https://www.shallion.co.uk/dementia-support)
 
 The completed page can be viewed on the live Shallion website.

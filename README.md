@@ -23,3 +23,19 @@ The main methods were:
 - Implementation of selected content, navigation, page structure and usability improvements using Wix.
 - Responsive and usability checks across desktop and mobile views.
 - Documentation of the development process, findings and recommendations for future improvement.
+
+## 4. Main Results and Outputs
+
+The main outputs produced during the placement included:
+
+- A review of the existing Shallion website, including content, navigation, information structure and user pathways.
+- A current information-flow review describing how users may discover Shallion, make enquiries and access support information.
+- Website improvement recommendations based on the website review and available analytics.
+- Development and restructuring of website content and page sections for Shallion Support.
+- Development of a dedicated Shallion Dementia Support webpage.
+- Improvements to website navigation, calls-to-action, FAQ content and support information.
+- Development of Support Us content and clearer presentation of support and contribution information.
+- Review and improvement of website content relating to Shallion's social enterprise partners.
+- Responsive and usability checks across desktop and mobile views.
+- Analysis of Wix website analytics and Google search performance to provide a baseline for future website evaluation.
+- Documentation of completed website work, findings and recommendations for future development.
